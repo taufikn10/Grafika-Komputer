@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1613302781 source:d:\materi smt 4\grafika komputer\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<GL/glut.h>
+
